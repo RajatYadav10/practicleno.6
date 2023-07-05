@@ -1,0 +1,23 @@
+nav{ 
+width: 100%; 
+background: skyblue; 
+overflow: auto; 
+} 
+ul{ 
+list=style: name; 
+} 
+li{ 
+float: left; 
+float-size: 40px; 
+margin-right: 200px; 
+} 
+div{ 
+float: left; 
+float-size: 10px; 
+margin-right: 30px; 
+} 
+img{ 
+width: 210px; 
+height: 200px; 
+}
+
